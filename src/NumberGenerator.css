@@ -1,0 +1,27 @@
+.NumberGenerator {
+  background-color: #ffe9d6;
+  padding: 1rem 1rem 3rem 1rem;
+  margin: 2rem 12rem 2rem 12rem;
+  border-radius: 2rem;
+}
+
+.NumberGenerator-title {
+  color: #654062;
+}
+
+.NumberGenerator-button {
+  border-width: 0px;
+  width: 13rem;
+  height: 3rem;
+  background-color: #fa9579;
+  color: #ffe9d6;
+  border-radius: 0.8rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.NumberGenerator-button:hover {
+  color: #ffe9d6;
+  background-color: #654062;
+}

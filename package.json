@@ -1,5 +1,5 @@
 {
-  "name": "lottery",
+  "name": "number-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
